@@ -51,9 +51,9 @@ To update your local copy (pull), type the following at a console prompt from wi
 - [PEP-8 Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 - [PEP-20 The Zen of Python](https://www.python.org/dev/peps/pep-0020/)
 
-## Online resources
+### Online resources
 - [Pyvideo](http://www.pyvideo.org/)
 
-## Recommended books
+### Recommended books
 - [Fluent Python - Ramalho](http://shop.oreilly.com/product/0636920032519.do)
 - [Python Cookbook - Beazley and Jones](http://shop.oreilly.com/product/0636920027072.do)
