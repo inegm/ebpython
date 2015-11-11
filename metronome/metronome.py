@@ -4,10 +4,7 @@ import time
 import subprocess
 
 
-Bar = namedtuple(
-    'Bar',
-    ['tempo', 'numerator', 'denominator', 'upbeat'],
-)
+Bar = namedtuple('Bar', ['tempo', 'numerator', 'denominator', 'upbeat'])
 
 
 def csv_to_playlist(path, d_tempo=120, d_num=4, d_den=4, d_upbeat=3):
@@ -25,7 +22,7 @@ def csv_to_playlist(path, d_tempo=120, d_num=4, d_den=4, d_upbeat=3):
         'denominator', and 'upbeat'.
     '''
     playlist = list()
-    with open(path, 'rb') as f:
+    with open(path, 'r') as f:
         reader = csv.DictReader(f)
         for row in reader:
             for repeat in range(int(row.get('repeat', 1))):
