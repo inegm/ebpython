@@ -5,16 +5,17 @@ EasternBloc Python fundamentals course
 
 Check that you have python installed by opening up a console and typing `python` at the prompt. You should see something like this:
 
-  Python 3.5.3 (default, Nov 23 2017, 11:34:05)
-  [GCC 6.3.0 20170406] on linux
-  Type "help", "copyright", "credits" or "license" for more information.
-  >>>
+    Python 3.5.3 (default, Nov 23 2017, 11:34:05)
+    [GCC 6.3.0 20170406] on linux
+    Type "help", "copyright", "credits" or "license" for more information.
+    >>>
 
 If you do, you're in a Python console! Notice your version number on the first line of the output (mine is 3.5.3). For now, exit the console.
 
     Use exit() or Ctrl-D (i.e. EOF) to exit
 
 ## This code repository
+You can create a local copy of this repository but you'll first need to install Git. You can find instructions for your platform [here](https://git-scm.com/).
 ### Cloning the repository
 Open a console prompt and change the directory into which you'll want to store the course's code repository. To create a local copy of (clone) the course's repository, type
 
