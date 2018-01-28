@@ -4,6 +4,6 @@
 
 2- Calculate the pitch value in Hertz of a MIDI note.
 
-3- Create random twelve-tone rows (see: <https://en.wikipedia.org/wiki/Set_(music)>) represented as integer interval values using one of Python's list built-in functions. You will need to use the [random](https://docs.python.org/3.6/library/random.html) module.
+3- Create random twelve-tone rows (see: <https://en.wikipedia.org/wiki/Set_(music)>) represented as integer interval values. You will need to use the [random](https://docs.python.org/3.6/library/random.html) module.
 
 4- **BONUS** Create twelve-tone rows represented as MIDI notes, with the root note chosen at random.
