@@ -15,7 +15,7 @@ If you do, you're in a Python console! Notice your version number on the first l
     Use exit() or Ctrl-D (i.e. EOF) to exit
 
 ## This code repository
-You can create a local copy of this repository but you'll first need to install Git. You can find instructions for your platform [here](https://git-scm.com/).
+You can create a local copy of this repository but you'll first need to install Git. You can find instructions for your platform here: <https://git-scm.com/>.
 ### Cloning the repository
 Open a console prompt and change the directory into which you'll want to store the course's code repository. To create a local copy of (clone) the course's repository, type
 
