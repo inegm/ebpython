@@ -9,4 +9,6 @@ Use the following document : [Twelve-Tone Technique: A Quick Reference](http://m
 
 Note that the `invert_tone_row` function is quite challenging. You might need to use exception handling.
 
+Also, remember [.copy()](https://docs.python.org/3.6/library/copy.html).
+
 **Bonus** There is a mistake in the document linked above. Don't worry, it shouldn't stop you from finding the correct answers. Be confident in your results and point out the mistake for bonus points.
