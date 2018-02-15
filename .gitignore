@@ -107,3 +107,4 @@ venv.bak/
 notebooks/oldbooks/
 archive/
 
+.DS_Store
